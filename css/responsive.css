@@ -1,0 +1,55 @@
+
+@media only screen and (max-width: 768px) {
+    .home img{
+       width: 0%;
+       margin-bottom: -50px;
+     }  
+
+}
+/*Navbar*/
+@media only screen and (max-width: 600px) {
+   .navbar img{
+   	width: 75%;
+    
+  }
+  .home h1{
+   font-size: 44px;
+   
+  }
+
+ 
+  .swiper-slide {
+   width: 100%;
+  }
+  .sec-heading h2{
+   text-align: left;
+
+    }
+
+  button.navbar-toggler {
+  	margin-left: 70%;
+  	margin-top: -60px;
+}
+
+.testimonial{
+   height: auto;
+}
+
+.footer{
+   height: auto;
+}
+
+.footer h4{
+   text-align: center;
+   font-size: 28px;
+}
+
+
+.footer h6{
+   text-align: center;
+
+}
+
+}
+
+
